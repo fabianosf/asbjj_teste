@@ -5,7 +5,6 @@ body {
   /* Remove o preenchimento padrão do body */
 }
 
-
 @font-face {
   font-family: 'Plain';
   src: url('../fonts/Plain-Regular.woff2') format('woff2'),
@@ -392,7 +391,7 @@ a:focus {
   -----------------------------------------*/
 
 .hero {
-  background-image: url('../images/hero-bg.jpg');
+  background-image: url('../images/bg.jpg');  
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
